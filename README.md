@@ -8,7 +8,7 @@ This course introduces the following topic:
   
   * General Introduction   
   * Linear Regression (with 1 or more variables)   
-  * Logistic Regression   
+  * Logistic Regression (with 1 or more variables + multi-class)
   * Regularization   
   * Neural Networks (Representation & Learning)   
   * Advice for Applying Machine Learning   
