@@ -6,11 +6,11 @@ For those who haven't taken the course but plan to enroll in this course, please
     
 This course introduces the following topic:  
   
-  * General Introduction   
-  * Linear Regression (with 1 or more variables)   
-  * Logistic Regression (with 1 or more variables + multi-class)
-  * Regularization   
-  * Neural Networks (Representation & Learning)   
+  * General Introduction  
+  * Linear Regression (with 1 or more variables) - [ass01](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex1)  
+  * Logistic Regression (with 1 or more variables - [ass02](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex2) + multi-class - [ass03](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex3))  
+  * Regularization - [ass02](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex2)  
+  * Neural Networks (Representation - [ass03](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex3) & Learning)   
   * Advice for Applying Machine Learning   
   * Machine Learning System Design   
   * Support Vector Machines   
