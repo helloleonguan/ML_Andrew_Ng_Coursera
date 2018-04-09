@@ -81,10 +81,29 @@ J += (lambda / (2 * m)) * (sum(sum(Theta1(:, 2:end) .^ 2)) + sum(sum(Theta2(:, 2
 % part 3
 
 
+% step 1: forward pass
+z_2 = Theta1 * X';
+a_2 = [ones(1, m); sigmoid(z_2)];
+a_3 = sigmoid(Theta2 * a_2);
+ 
+% step 2: error in layer 3
+delta_3 = a_3 .- y';
+ 
+% step 3: error in hidden layer 2
+delta_2 = (Theta2' * delta_3)(2:end,:) .* sigmoidGradient(z_2);
+ 
+% step 4: accumulate delta
+ 
+Theta1_grad += delta_2 * X;
+Theta2_grad += delta_3 * a_2';
 
+# step 5: gradients for Theta1 and Theta2
+Theta1_grad = Theta1_grad ./ m;
+Theta2_grad = Theta2_grad ./ m;
 
-
-
+# step 6: regularization for gradients
+Theta1_grad(:, 2:end) += (lambda / m) * Theta1(:, 2:end);  
+Theta2_grad(:, 2:end) += (lambda / m) * Theta2(:, 2:end);
 % -------------------------------------------------------------
 
 % =========================================================================
