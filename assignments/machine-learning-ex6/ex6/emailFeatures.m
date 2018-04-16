@@ -48,9 +48,11 @@ x = zeros(n, 1);
 %
 %
 
+vocabList = getVocabList();
 
-
-
+for word_index = word_indices
+   x(word_index) = 1;
+endfor
 
 
 
