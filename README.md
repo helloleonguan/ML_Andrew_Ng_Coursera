@@ -9,15 +9,15 @@ This course introduces the following topic:
   * General Introduction  
   * Linear Regression (with 1 or more variables) - [ass01](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex1)  
   * Logistic Regression (with 1 or more variables - [ass02](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex2) + multi-class - [ass03](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex3))  
-  * Regularization - [ass02](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex2)  
-  * Neural Networks (Representation - [ass03](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex3) & Learning)   
-  * Advice for Applying Machine Learning   
+  * Regularization - [ass02](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex2) & [ass05](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex5)  
+  * Neural Networks (Representation - [ass03](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex3) & Learning - [ass04](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex4)   
+  * Advice for Applying Machine Learning - [ass05](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex5)   
   * Machine Learning System Design   
-  * Support Vector Machines   
-  * Unsupervised Learning   
-  * Dimensionality Reduction   
-  * Anomaly Detection   
-  * Recommender Systems   
+  * Support Vector Machines - [ass06](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex6)  
+  * Unsupervised Learning (K-means clustering) - [ass07](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex7)   
+  * Dimensionality Reduction (PCA) - [ass07](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex7)  
+  * Anomaly Detection - [ass08](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex8)   
+  * Recommender Systems - [ass08](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex8)  
   * Large Scale Machine Learning   
   * Application Example: Photo OCR   
   
