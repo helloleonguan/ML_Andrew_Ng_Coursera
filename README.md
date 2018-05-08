@@ -4,7 +4,10 @@ This is a course repository storing all the lecture slides & notes and programmi
     
 For those who haven't taken the course but plan to enroll in this course, please do not go over my solutions of the assignments before you have actually completed them. Otherwise, it will be a direct violation of the course Honour Code.  
     
-This course introduces the following topic:  
+__Upon completing the course, I have earned the [final certificate](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/blob/master/ML%20certificate.pdf)__.  
+  
+  
+#### This course introduces the following topic:  
   
   * General Introduction  
   * Linear Regression (with 1 or more variables) - [ass01](https://github.com/helloleonguan/ML_Andrew_Ng_Coursera/tree/master/assignments/machine-learning-ex1)  
@@ -21,6 +24,6 @@ This course introduces the following topic:
   * Large Scale Machine Learning   
   * Application Example: Photo OCR   
   
-Details of the course and the lecturer:     
+#### Details of the course and the lecturer:     
   * [__General Course Info__](https://www.coursera.org/learn/machine-learning)  
   * [__Andrew Ng__](https://www.coursera.org/instructor/andrewng)   
