@@ -26,4 +26,10 @@ __Upon completing the course, I have earned the [final certificate](https://gith
   
 #### Details of the course and the lecturer:     
   * [__General Course Info__](https://www.coursera.org/learn/machine-learning)  
-  * [__Andrew Ng__](https://www.coursera.org/instructor/andrewng)   
+  * [__Andrew Ng__](https://www.coursera.org/instructor/andrewng) 
+  
+### Cheatsheets 
+* [ Supervised Learning ](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)  
+* [ Unsupervised Learning ](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)  
+* [ Tricks and Tips ](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
+
